@@ -1,6 +1,6 @@
 # Jogos :joystick: :video_game:
 
-### Lista de jogos
+### LISTA DE JOGOS
 
 1. Pedra, Papel ou Tesoura
 2. Ímpar ou Par
