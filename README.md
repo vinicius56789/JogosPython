@@ -1,4 +1,4 @@
-# Jogos :joystick: :video_game:
+# JOGOS :joystick: :video_game:
 
 ### LISTA DE JOGOS
 
