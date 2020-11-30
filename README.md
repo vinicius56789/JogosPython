@@ -9,4 +9,4 @@
 
 > Ambos são feitos com condicionais, repetições e variáveis em python. Nos dois jogos o import random int é fundamental para o funcionamento, além dele, o tratamento de alguns erros com if também foram de muita importância.
 
-### Até a próxima :wolf:
+### :wolf:
